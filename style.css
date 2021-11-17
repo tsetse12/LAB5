@@ -1,0 +1,14 @@
+.item1,.item2{
+	width: 200px;
+	height:200px;
+}
+.item1{background-color: green;
+		position: relative;
+		right: 20px;
+		bottom: 20px;}
+.item2{
+	background-color: red;
+	position: relative;
+	left: 1712px;
+	top: 750px;
+}
